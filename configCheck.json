@@ -1,0 +1,19 @@
+{
+    "keygen": {
+      "distributedKey": {
+        "publicKey": "ec96a594d37b987f813f580b242c9f52d31c9fbfc86b5c854c6c0e0e9a85898d920fd77b3647c3d8779fdb335e0c8ca604f05dec6e29d9e62296a0c840bc8670",
+        "accountId": 1,
+        "keyShareData": {
+          "x1": "271a179374fa4434d92b04b34b257e992f4c501b8af011a24b954aaa290719c4",
+          "public_key": "ec96a594d37b987f813f580b242c9f52d31c9fbfc86b5c854c6c0e0e9a85898d920fd77b3647c3d8779fdb335e0c8ca604f05dec6e29d9e62296a0c840bc8670",
+          "paillier_private_key": {
+            "p": "AZN3oK19y6cq6Ubb1NPmamIJkQx1Cx3ofxm7NbPP2CS68ekEgGonbY5PjM6O4G2PM0NXdv27A0ZIVW03HSElfbpCC0cOGXxG4SSsGpkUmH3qKB4jyj9xYb+IrIzn1UH4RIjLlX9Avfphxbe/imeMX36ZMC1n45ShkxCg+MT8geMh",
+            "q": "kWoMM8RmQ8v1rLneEgqtmCAs3aQhOGe+bz/ZXNWt8c5KstpbNEfrrRUzvtd1fK7zolytFEfeevLJpJVtoKzn64F6vYPSDz7LFm68DyLGwUcsoawG68xig7yLRicsIMYE/sDY+5wg2Nsn8TGjrsN2yreqhviKRjQIjYa1oPDNCUU="
+          },
+          "paillier_public_key": "5S3kxf38WAC82Z0MT8BhWV8Y1QzvfioryEpkJIh3UF4+hKSo1/vXyeb7BhLaGOGCtsrxex130Ixe1ivmO3BKJGhxch4ZrZyFjXf94WA9wW+vypNikPLhXZpQdw9pcx6kX6NLRT+pNMZUShG+zSU59omXk7FI0YBYzSUCn5G9M+QbjF22S+O89oUb9YtBsafSFKtUENsReMZniZsES2TfoaL6G1EpIicg0VJr8GTpYCLsY3UcaT/UMm8GE5+Vi3KM34wRqob9HYsgrIyTFpL+n4pdba7gMjZuYN7kk1MkT+6Bkp9APHsAxG+VD818jicIFpL00Oj/Nxy9pDyKcWtg5Q=="
+        }
+      },
+      "elapsedTime": 5052
+    }
+  }
+  
