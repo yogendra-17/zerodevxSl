@@ -2,37 +2,43 @@
 
 ## Setup and Installation
 
-Follow these steps to get this project up and running on your local machine:
+Copy the `.env.example` file to `.env` and fill in the required values (most examples only require a few of these env vars)
 
-1. **Clone the repository**
+Step to reproduce the error:
 
-   Use the following command to clone this repository to your local machine:
+  ```bash
+   npm install
+   npx ts-node create-account/without-preset.ts
+```
 
-   ```bash
-   git clone git@github.com:zerodevapp/zerodev-examples.git
-   ```
+**Install dependencies**
 
-2. **Install dependencies**
-
-   Navigate to the project directory and install the dependencies:
+Navigate to the project directory and install the dependencies:
 
    ```bash
    cd zerodev-examples
    npm install
-   ```
+```
 
-3. **Setup environment variables**
+**Setup environment variables**
 
-   Copy the `.env.example` file to `.env` and fill in the required values (most examples only require a few of these env vars)
+Copy the `.env.example` file to `.env` and fill in the required values (most examples only require a few of these env vars)
 
    ```bash
     cp .env.example .env
-    ```
-
-4. **Run the script**
-
-   Run the script using the following command:
-
-   ```bash
-   npx ts-node create-account/with-preset.ts
    ```
+
+Run the script**
+Run the script using the following command:
+   ```bash
+   npx ts-node create-account/without-preset.ts
+   ```
+
+## Error Details
+
+```bash
+Error Message:
+SendUserOperationError: RPC Request failed.
+URL: https://rpc.zerodev.app/api/v2/bundler/...
+Details: Invalid UserOp signature or paymaster signature
+```

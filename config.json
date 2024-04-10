@@ -1,18 +1,18 @@
 {
   "keygen": {
     "distributedKey": {
-      "publicKey": "96fc6d1accc029ff10f4769afb9dc1a01b0aac6c0d17364f358a4333d88f7b4b94053c9f213584a378a3748ce3d700684cd65e6b438c7fd7783827e6e809cc75",
+      "publicKey": "105aded4b8b065c13f5683098c72713a3efd04d0ab85265e1fe1362576c6ffce62dcfcb9ae1617d11757dce35b4a5fa2be0e0ee9a19fc2e46ce0fa4897f1440f",
       "accountId": 1,
       "keyShareData": {
-        "x1": "cfb3dc511d15d9c16d04b368ed5423deb60e89ba726eb1662079a117e052eef0",
-        "public_key": "96fc6d1accc029ff10f4769afb9dc1a01b0aac6c0d17364f358a4333d88f7b4b94053c9f213584a378a3748ce3d700684cd65e6b438c7fd7783827e6e809cc75",
+        "x1": "f9e7c6ee816a40afef155eed8f6441c0ed762256c43630c11702f17aef6bde9e",
+        "public_key": "105aded4b8b065c13f5683098c72713a3efd04d0ab85265e1fe1362576c6ffce62dcfcb9ae1617d11757dce35b4a5fa2be0e0ee9a19fc2e46ce0fa4897f1440f",
         "paillier_private_key": {
-          "p": "AZ8RdeghADB8dYZGyTHPJ8Ol3xTeSFFD91wvaGFtWmjcpnpugg6kgk5jgliitrFHVVbKQUANh52xKTOu+ZbGuO8pg50/Pc89GpVcckkMXsQ7kp8qW9i91EfqkymrnJBHojFItPtI6xBVxf2U4Azd5f3WCNeR9cI+BeT7z4jo5ux9",
-          "q": "hAVulPDTmqBwdeIjkdRVMjND2ha19qbhIN0Q6/7/dQ8wgU8UwObR/h02CFcs2xlQee2HLWqtTCb+GGBvjqemJ2hDPLZgzvFee0b3yBVo0Qm+Uqd/MjxITNy8CBcx2Dqhl3dgEDI1uq10gfFAH+DTQYdcIXB7rexWE/fP3+gu1W8="
+          "p": "AUJRVlWUl3z2LvQHHoa5eJTmVuGmNskjttQ+ihbn924K2AtblAY1EgEc6/tvrw17tov710nSK5g/0psSNW9wbEsVf8OC7di28GxvDxV9q1T56pTuCxskTb0pKrlbn8jdlqWp1lNJRVUQGZdde383AMS4Hkqq1wp8Z+N/QwEriNbX",
+          "q": "maJbWos/cm290opIt0dVdCUkcMf3/ZI9+3V+nPWlFstSjVuUmlv/9e1ngb0XlNTm07Um6YR5TRWdHaLtYqz2MXtLfcZ/dx2lmwod+vjnYKYLTiRR3OxHK1Em059CJXKiXE4hgt29AdoMbkJafIPgtaU5yPLOEKAvtudjUQiEKyk="
         },
-        "paillier_public_key": "1g3PbfvGGwS3aoVVrSZ0VUH02OilV+Ra30Zq0OZdeye//UkaTQ8AoRmcD15Lz1w8YoMwTDyj04/9g85R7B+NUVgTavDO7OapkjvXDJZURoP769DcBjeBd/mx98D76Jz/knP0DDlWbpT1kmr+sR6C0VydISf8WmxcbKG4QE+i5QI0THniWW5PE+8lOJldMW9CbQtU/aQERcGJwNKcWdEes1KbETPGatJeNKc5dRd0dvWBPwmSH2XXHk8V2HCCV9v7YaxgfvO+TI08n4XI1ZNnd/aKYiY2di8QT0PoSlkt/B58sb7kFVd3gh1nlTpQiLpKQPNfmCMCKlY4gxnX5VqLMw=="
+        "paillier_public_key": "wW8HFrGRY2tnV9I5jXZzQ6aDsoe8wJ1oPihk51iQSAZQ9G17iS9lLiowkEUJ/1fhHn4kyhURj4nC33ZMmMx/FwROjlDSdOZT+ixHGndvR+sDKqjXk1jlr7J7ZDAy3E2EHk0D3C8KL9LJHTAhQMNL4FfNwvTKqtjPHjyngj64pUQcC4IOzdLHMawKwbaCSp9vBVlMIdOAo9HolGul9gwRVetzI73hyVXZFrfdwgsxUpKKDdHrn1DFb2q+5i4uU+ELFlGnk2gP/XSpVUlBkMqkKp09PZFjgG6tiT6X6bge4neHhmFpt1XWKLGvvfoclMy0h4cVMQlFsXTM+8XMc9yFbw=="
       }
     },
-    "elapsedTime": 2410
+    "elapsedTime": 5871
   }
 }

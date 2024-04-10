@@ -1,6 +1,5 @@
 import { ethers } from "ethers";
 import * as sdk from "./srcMpc/lib/sdk";
-// import {keygen} from "./configCheck.json"
 import {
   SignMessageReturnType,
   createWalletClient,

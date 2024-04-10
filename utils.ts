@@ -12,7 +12,6 @@ if (!zeroDevProjectId || !privateKey) {
 }
 
 
-
 export const getKernelClient = async () => {
   const signer = await silentWalletToAccount();
   return await createEcdsaKernelAccountClient({
